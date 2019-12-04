@@ -4,3 +4,5 @@ if int(age) <= 18:
     print("Cześć " + name)
 else:
     print("Witaj " + name)
+colour = input("Ulubiony kolor? ")
+print( colour + "ch snów!")
