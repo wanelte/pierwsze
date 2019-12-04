@@ -1,0 +1,6 @@
+name = input("Jak masz na imie? ")
+age = input("Ile masz lat? ")
+if int(age) <= 18:
+    print("Cześć " + name)
+else:
+    print("Witaj " + name)
